@@ -1,0 +1,20 @@
+.main_div{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+
+.blocks{
+    width: 210px;
+    height: auto;
+    background-color: aquamarine;
+    margin: 10px;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+.text:hover{
+    color: white;
+    cursor: pointer;
+}

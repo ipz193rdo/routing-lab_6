@@ -1,0 +1,17 @@
+.block{
+    height: fit-content;
+    width: auto;
+    background-color: gray;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    padding: 20px 500px ;
+    
+}
+.title{
+    text-align: center;
+    padding: 10px   ;
+}
+.p{
+   padding: 10px; 
+}
